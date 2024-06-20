@@ -71,3 +71,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, revisa el archivo 
 ## Contacto
 
 Para cualquier pregunta o sugerencia, puedes contactarme a través de [ndaza@uniempresarial.edu.co](mailto:ndaza@uniempresarial.edu.co).
+
+## Visualización
+
+https://nathaly-daza.github.io/Notes/
